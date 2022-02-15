@@ -3,6 +3,8 @@
 
 Mi Card is a personal business card.
 
+<img src="https://github.com/MIA1kl/Repository-for-images/blob/main/miCard.jpg?raw=true" width="250" >
+
 ## What I've learned from this section:
 
 * How to create Stateless Widgets
